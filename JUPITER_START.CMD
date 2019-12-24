@@ -1,0 +1,1 @@
+C:\Users\Davide\Anaconda3\python.exe C:\Users\Davide\Anaconda3\cwp.py C:\Users\Davide\Anaconda3 C:\Users\Davide\Anaconda3\python.exe C:\Users\Davide\Anaconda3\Scripts\jupyter-notebook-script.py "\\192.168.101.22\d$\Nuova cartella\Neural networks and Deep learning\Image-recognition-tensorflow\imageRecognitionWTensorFlow.ipynb"
